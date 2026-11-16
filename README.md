@@ -15,7 +15,7 @@ Defects found in public software and reference material, each with a script anyo
 | Entry | Software | What goes wrong | Checked on | Upstream status |
 |---|---|---|---|---|
 | [mpmath-iv-log-enclosure](findings/mpmath-iv-log-enclosure/) | mpmath 1.4.1 and master | `iv.log(1 + 2**-(p-1))` returns a point interval that lies below the true value | 2026-11-16 | Not reported. Same class as mpmath issue 1181 (`mpf_exp`) |
-| [scipy-poisson-means-test-alternative-case](findings/scipy-poisson-means-test-alternative-case/) | SciPy 1.18.1 and main | `poisson_means_test(..., alternative='LESS')` is accepted and silently runs the `'greater'` test | 2026-11-16 | Not reported |
+| [scipy-poisson-means-test-alternative-case](findings/scipy-poisson-means-test-alternative-case/) | SciPy 1.18.1 and main | `poisson_means_test(..., alternative='LESS')` is accepted and silently runs the `'greater'` test | 2026-11-16 | Reported 2026-11-16: [scipy/scipy#26728](https://github.com/scipy/scipy/issues/26728) |
 
 ## Licence
 

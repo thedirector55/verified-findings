@@ -2,7 +2,7 @@
 
 - **Software:** SciPy, `scipy.stats.poisson_means_test`
 - **Checked on:** 2026-11-16, SciPy 1.18.1 with NumPy 2.5.4, Python 3.12.10, Windows 11. Source also read on `main` at commit `8c3fce06ad1d96806fb88cd85b6d66d2fa5175b6`.
-- **Upstream status:** not reported. Searches of the SciPy tracker for `poisson_means_test` with `alternative`, `case`, `uppercase` and `lower` on 2026-11-16 found no matching issue.
+- **Upstream status:** reported on 2026-11-16 as [scipy/scipy#26728](https://github.com/scipy/scipy/issues/26728). Before filing, searches of the SciPy tracker for `poisson_means_test` with `alternative`, `case`, `uppercase` and `lower` on 2026-11-16 found no matching issue.
 - **AI disclosure:** found by AI models during a wider audit; this write-up and the script are AI-written.
 
 ## What goes wrong
