@@ -1,0 +1,8 @@
+scipy 1.18.1
+alternative='less'       p = 0.927561
+alternative='LESS'       p = 0.087437
+alternative='Less'       p = 0.087437
+alternative='two-sided'  p = 0.174875
+alternative='TWO-SIDED'  p = 0.087437
+alternative='greater'    p = 0.087437
+alternative='GREATER'    p = 0.087437

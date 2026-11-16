@@ -1,0 +1,6 @@
+mpmath 1.5.0a3.dev17+gc5ce6bebe
+prec= 24  [1.192092824453538924e-7, 1.192092824453538924e-7]  width=0.0  true-hi=5.65e-22  contains true value: False
+prec= 53  [2.2204460492503128343e-16, 2.2204460492503128343e-16]  width=0.0  true-hi=3.65e-48  contains true value: False
+prec= 64  [1.0842021724855044339e-19, 1.0842021724855044339e-19]  width=0.0  true-hi=4.25e-58  contains true value: False
+prec=113  [1.9259299443872358531e-34, 1.9259299443872358531e-34]  width=0.0  true-hi=2.38e-102  contains true value: False
+prec=200  [1.2446030555722283414e-60, 1.2446030555722283414e-60]  width=0.0  true-hi=6.43e-181  contains true value: False
